@@ -1,4 +1,4 @@
-##FullStackJavaKJH
+<h1>FullStackJavaKJH</h1>
 
 문제) 배열에 100, 88, 100, 100, 90 을 입력하고 총합과 평균을 출력하시오.
  - Homework1\Day03\src\SumAverage.java
