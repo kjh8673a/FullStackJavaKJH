@@ -1,3 +1,8 @@
+// 과제) Class Nation 을 만들고 나라이름, 면적, 인구수를 멤버 변수로 만들고, 나라이름변경(), 면적변경(), 인구수변경() 메소드를 만드시오.
+//     Class Nation 을 상속한 나라를 3개 만들고, 나라별로 특수한 멤버변수 하나와 메소드 하나를 생성하시오.
+//     Class Nation 을 나라이름을 private로 지정하고, 면적과 인구수는 public 으로 지정하시오.
+//     Class Nation 을 만들고 행성이름을 만들고 static으로 지정하시오.
+
 package src;
 
 public class NationAssignment {
