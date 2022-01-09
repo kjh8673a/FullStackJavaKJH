@@ -7,7 +7,7 @@ package src;
 
 public class NationAssignment {
     public static void main(String[] args) {
-        Nation nation = new Nation();
+        Nation nation = new Nation(); // new 키워드 -> 인스턴스화
         
         France france = new France();
         france.name = "프랑스";
