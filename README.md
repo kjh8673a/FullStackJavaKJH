@@ -1,11 +1,12 @@
 <h1>FullStackJavaKJH</h1>
-
+<h3>Day03</h3>
 문제) 배열에 100, 88, 100, 100, 90 을 입력하고 총합과 평균을 출력하시오.
  - Homework1\Day03\src\SumAverage.java
 
 문제) 객체 지향 방식으로 Animal의 class를 만들고, Animal의 속성을 2가지 지정하고, 메서드도 2가지를 만들고나서, OOP.java에서 객체화 한 다음 하나의 속성을 실행하고 나머지 메서드도 실행하는 코드를 작성하세요.
  - Homework1\Day03\src\Animal.java
 
+<h3>Day05</h3>
 과제) Class Nation 을 만들고 나라이름, 면적, 인구수를 멤버 변수로 만들고, 나라이름변경(), 면적변경(), 인구수변경() 메소드를 만드시오. Class Nation 을 상속한 나라를 3개 만들고, 나라별로 특수한 멤버변수 하나와 메소드 하나를 생성하시오. Class Nation 을 나라이름을 private로 지정하고, 면적과 인구수는 public 으로 지정하시오. Class Nation 을 만들고 행성이름을 만들고 static으로 지정하시오.
  - Homework1\Day05\src\NationAssignment.java
 
